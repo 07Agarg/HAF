@@ -1,0 +1,1 @@
+python main.py --start training --arch custom_resnet18 --batch-size 256 --loss hierarchical-cross-entropy --alpha 0.2 --optimizer adam_amsgrad --data tiered-imagenet-224 --workers 16 --output out/tieredimagenet/hxe-ours-0.2 --num_training_steps 200000 --seed 0

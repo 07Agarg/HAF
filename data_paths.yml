@@ -1,0 +1,3 @@
+cifar-100: '/home/ashimag/Datasets/cifar100/'
+inaturalist19-224: '/home/ashimag/Datasets/iNat19/'
+tiered-imagenet-224: '/home/ashimag/Datasets/tiered_imagenet/'

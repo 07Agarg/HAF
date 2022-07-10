@@ -1,0 +1,1 @@
+OMP_NUM_THREADS=2 MKL_NUM_THREADS=2 python3 main.py --start testing --arch wide_resnet --loss cross-entropy --optimizer custom_sgd --data cifar-100 --workers 16 --pretrained_folder out/cifar-100/1_0 --output out/cifar-100/1_0/test
