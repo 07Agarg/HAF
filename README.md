@@ -5,9 +5,10 @@ Ashima Garg, Depanshu Sani, Saket Anand. <br />
 
 _European Conference on Computer Vision (ECCV 2022)_
 
+
 ## Proposed Approach 
 <div align="center">
-  <img src="imgs/teaser_hist.pdf"/>
+  <img src="imgs/teaser_hist.png"/>
 </div>
 
 
@@ -20,6 +21,7 @@ $ cd HAF
 
 ## Acknowledgements
 This codebase is borrowed from [making-better-mistakes](https://github.com/fiveai/making-better-mistakes)
+
 
 ## Contact 
 If you have any suggestion or question, you can leave a message here or contact us directly at ashimag@iiitd.ac.in
