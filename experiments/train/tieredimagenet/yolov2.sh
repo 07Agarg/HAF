@@ -1,0 +1,1 @@
+python main.py --start training --arch custom_resnet18 --batch-size 256 --loss yolo-v2 --optimizer adam_amsgrad --data tiered-imagenet-224 --workers 16 --dropout 0.5 --lr 1e-5 --output out/tieredimagenet/yolo-v2 --seed 0

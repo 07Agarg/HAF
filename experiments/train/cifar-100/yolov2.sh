@@ -1,0 +1,1 @@
+python main.py --start training --arch wide_resnet --batch-size 64 --loss yolo-v2 --optimizer adam_amsgrad --data cifar-100 --workers 16 --epochs 100 --output out/cifar-100/yolo-v2 --seed 0 --lr 0.001

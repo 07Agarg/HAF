@@ -1,1 +1,1 @@
-python main.py --start training --arch custom_resnet18 --batch-size 256 --loss ours-l12-cejsd-wtconst-dissim --optimizer adam_amsgrad --data tiered-imagenet-224 --workers 16 --output out/tieredimagenet/ours-l12-cejsd-wtconst-dissiml --seed 0
+python main.py --start training --arch custom_resnet18 --batch-size 256 --epochs 100 --loss ours-l7-cejsd-wtconst-dissim --optimizer custom_sgd --data inaturalist19-224 --workers 16 --output out/inat/ours-l7-cejsd-wtconst-dissim --seed 0

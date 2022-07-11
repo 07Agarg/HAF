@@ -1,1 +1,0 @@
-python main.py --start training --arch custom_resnet18 --batch-size 256 --loss cross-entropy --optimizer adam_amsgrad --data tiered-imagenet-224 --workers 16 --output out/tieredimagenet/cross-entropy-adam_amsgrad --seed 0

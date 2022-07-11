@@ -1,0 +1,1 @@
+python main.py --start training --arch custom_resnet18 --batch-size 256 --loss soft-labels --beta 30 --optimizer adam_amsgrad --data inaturalist19-224 --workers 16 --output out/inat/soft-labels-30-bestlr --epochs 100 --lr 0.0001 --seed 0

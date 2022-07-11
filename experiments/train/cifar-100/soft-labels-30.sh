@@ -1,0 +1,1 @@
+python main.py --start training --arch wide_resnet --batch-size 64 --loss soft-labels --beta 30 --optimizer adam_amsgrad --data cifar-100 --workers 16 --epochs 100 --output out/cifar-100/soft-labels-30_adam_amsgrad --seed 0 --lr 0.001

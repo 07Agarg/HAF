@@ -1,0 +1,1 @@
+python main.py --start training --arch custom_resnet18 --batch-size 256 --epochs 100 --loss ours-l7-cejsd-wtconst --optimizer custom_sgd --data inaturalist19-224 --workers 16 --output out/inat/ours-l7-cejsd-wtconst --seed 0

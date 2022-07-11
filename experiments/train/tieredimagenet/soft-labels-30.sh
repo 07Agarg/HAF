@@ -1,0 +1,1 @@
+python main.py --start training --arch custom_resnet18 --batch-size 256 --loss soft-labels --beta 30 --optimizer adam_amsgrad --data tiered-imagenet-224 --workers 16 --output out/tieredimagenet/soft-labels-30 --seed 0

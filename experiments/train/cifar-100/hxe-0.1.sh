@@ -1,0 +1,1 @@
+python main.py --start training --arch wide_resnet --batch-size 64 --loss hierarchical-cross-entropy --alpha 0.1 --optimizer adam_amsgrad --data cifar-100 --workers 16 --output out/cifar-100/hxe_adam_amsgrad_0.1 --epochs 100 --seed 0 --lr 0.001

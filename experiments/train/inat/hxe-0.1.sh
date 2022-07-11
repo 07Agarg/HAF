@@ -1,0 +1,1 @@
+python main.py --start training --arch custom_resnet18 --batch-size 256 --loss hierarchical-cross-entropy --alpha 0.1 --optimizer adam_amsgrad --data inaturalist19-224 --workers 16 --output out/inat/hxe-0.1-bestlr --epochs 100 --seed 0 --lr 0.0001
