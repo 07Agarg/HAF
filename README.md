@@ -19,6 +19,22 @@ $ git clone https://github.com/07Agarg/HAF.git
 $ cd HAF
 ```
 
+## Using the Code
+The experiments in the paper are contained in the folder ```experiments/``` dataset wise. 
+For CIFAR-100
+```
+bash experiments/train/cifar-100/cross-entropy.sh
+```
+For iNaturalist-19
+```
+bash experiments/train/inat/cross-entropy.sh
+```
+For tiered-imagenet
+```
+bash experiments/train/tieredimagenet/cross-entropy.sh
+```
+
+
 ## Acknowledgements
 This codebase is borrowed from [making-better-mistakes](https://github.com/fiveai/making-better-mistakes)
 

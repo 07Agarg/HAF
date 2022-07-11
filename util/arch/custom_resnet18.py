@@ -10,7 +10,7 @@ from iNat19.inat_get_target_tree import *
 from tiered_imagenet.tiered_get_target_tree import *
 from MBM.better_mistakes.util.dissimilar_pairs import create_dissimilar_pairs
 from util.loss_function.jsd import JSDSimilarLoss, JSDDissimilarLoss
-from MBM.better_mistakes.model.performance import accuracy, mistake_severity
+from MBM.better_mistakes.model.performance import accuracy
 
 import torch.nn.functional as F
 

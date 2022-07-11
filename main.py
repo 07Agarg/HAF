@@ -10,7 +10,6 @@ import wandb
 import torch.utils.data.distributed
 import torchvision.models as models
 
-from CRM.src import compute_results
 from MBM.better_mistakes.util.rand import make_deterministic
 from MBM.better_mistakes.util.folders import get_expm_folder
 from MBM.better_mistakes.util.config import load_config
