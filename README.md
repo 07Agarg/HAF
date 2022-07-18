@@ -37,6 +37,9 @@ bash experiments/train/tieredimagenet/cross-entropy.sh
 ## For testing
 Refer to the code repository: [CRM-making-better-mistakes](https://github.com/sgk98/CRM-Better-Mistakes)
 
+## Link To Trained Models
+Download HAF final trained models from the [link](https://drive.google.com/drive/folders/1-dPWyfg6QbOg6dLQ9ECB-LVzL48vWNXq?usp=sharing) and use the above repository for testing. 
+
 ## Acknowledgements
 This codebase is borrowed from [making-better-mistakes](https://github.com/fiveai/making-better-mistakes)
 
