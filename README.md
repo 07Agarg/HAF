@@ -19,7 +19,7 @@ $ git clone https://github.com/07Agarg/HAF.git
 $ cd HAF
 ```
 
-## Using the Code
+## Using the Code for Training
 The experiments in the paper are contained in the folder ```experiments/``` dataset wise. 
 For CIFAR-100
 ```
@@ -34,6 +34,8 @@ For tiered-imagenet
 bash experiments/train/tieredimagenet/cross-entropy.sh
 ```
 
+## For testing
+Refer to the code repository: [CRM-making-better-mistakes](https://github.com/sgk98/CRM-Better-Mistakes)
 
 ## Acknowledgements
 This codebase is borrowed from [making-better-mistakes](https://github.com/fiveai/making-better-mistakes)
