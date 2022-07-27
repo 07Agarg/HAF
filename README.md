@@ -1,6 +1,6 @@
 # HAF in PyTorch
 
-Official Code Release for **[Learning Hierarchy Aware Features for Reducing Mistake Severity]** <br/>
+Official Code Release for **[Learning Hierarchy Aware Features for Reducing Mistake Severity](http://arxiv.org/abs/2207.12646)** <br/>
 Ashima Garg, Depanshu Sani, Saket Anand. <br />
 
 _European Conference on Computer Vision (ECCV 2022)_
