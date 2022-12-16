@@ -5,6 +5,18 @@ Ashima Garg, Depanshu Sani, Saket Anand. <br />
 
 _European Conference on Computer Vision (ECCV 2022)_
 
+## Citations
+If you find this paper useful, please cite our paper: 
+```
+@inproceedings{garg2022learning,
+  title={Learning Hierarchy Aware Features for Reducing Mistake Severity},
+  author={Garg, Ashima and Sani, Depanshu and Anand, Saket},
+  booktitle={European Conference on Computer Vision},
+  pages={252--267},
+  year={2022},
+  organization={Springer}
+}
+```
 
 ## Proposed Approach 
 <div align="center">
